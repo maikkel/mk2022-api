@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0920b7df-001f-49b1-b3f1-06a10e1e277e" name="cyon" url="https://api.maikkellerhals.com">
+        <fileTransfer rootFolder="/home/kelmaico/public_html/api.maikkellerhals.com" accessType="SFTP" host="s002.cyon.net" port="22" sshConfigId="e5cf65af-27ee-42e5-ba3b-a462d2eddb70" sshConfig="kelmaico@s002.cyon.net:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

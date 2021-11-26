@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="s002.cyon.net" id="e5cf65af-27ee-42e5-ba3b-a462d2eddb70" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="kelmaico" />
+    </configs>
+  </component>
+</project>
